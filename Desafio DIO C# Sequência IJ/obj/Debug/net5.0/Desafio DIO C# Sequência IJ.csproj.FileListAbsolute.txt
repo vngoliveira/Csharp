@@ -1,0 +1,16 @@
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência IJ\bin\Debug\net5.0\Desafio DIO C# Sequência IJ.exe
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência IJ\bin\Debug\net5.0\Desafio DIO C# Sequência IJ.deps.json
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência IJ\bin\Debug\net5.0\Desafio DIO C# Sequência IJ.runtimeconfig.json
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência IJ\bin\Debug\net5.0\Desafio DIO C# Sequência IJ.runtimeconfig.dev.json
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência IJ\bin\Debug\net5.0\Desafio DIO C# Sequência IJ.dll
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência IJ\bin\Debug\net5.0\ref\Desafio DIO C# Sequência IJ.dll
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência IJ\bin\Debug\net5.0\Desafio DIO C# Sequência IJ.pdb
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência IJ\obj\Debug\net5.0\Desafio DIO C# Sequência IJ.csproj.AssemblyReference.cache
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência IJ\obj\Debug\net5.0\Desafio DIO C# Sequência IJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência IJ\obj\Debug\net5.0\Desafio DIO C# Sequência IJ.AssemblyInfoInputs.cache
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência IJ\obj\Debug\net5.0\Desafio DIO C# Sequência IJ.AssemblyInfo.cs
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência IJ\obj\Debug\net5.0\Desafio DIO C# Sequência IJ.csproj.CoreCompileInputs.cache
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência IJ\obj\Debug\net5.0\Desafio DIO C# Sequência IJ.dll
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência IJ\obj\Debug\net5.0\ref\Desafio DIO C# Sequência IJ.dll
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência IJ\obj\Debug\net5.0\Desafio DIO C# Sequência IJ.pdb
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência IJ\obj\Debug\net5.0\Desafio DIO C# Sequência IJ.genruntimeconfig.cache

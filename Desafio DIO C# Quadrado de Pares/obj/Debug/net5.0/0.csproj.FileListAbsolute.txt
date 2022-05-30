@@ -1,0 +1,16 @@
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\0\bin\Debug\net5.0\0.exe
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\0\bin\Debug\net5.0\0.deps.json
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\0\bin\Debug\net5.0\0.runtimeconfig.json
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\0\bin\Debug\net5.0\0.runtimeconfig.dev.json
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\0\bin\Debug\net5.0\0.dll
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\0\bin\Debug\net5.0\ref\0.dll
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\0\bin\Debug\net5.0\0.pdb
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\0\obj\Debug\net5.0\0.csproj.AssemblyReference.cache
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\0\obj\Debug\net5.0\0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\0\obj\Debug\net5.0\0.AssemblyInfoInputs.cache
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\0\obj\Debug\net5.0\0.AssemblyInfo.cs
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\0\obj\Debug\net5.0\0.csproj.CoreCompileInputs.cache
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\0\obj\Debug\net5.0\0.dll
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\0\obj\Debug\net5.0\ref\0.dll
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\0\obj\Debug\net5.0\0.pdb
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\0\obj\Debug\net5.0\0.genruntimeconfig.cache

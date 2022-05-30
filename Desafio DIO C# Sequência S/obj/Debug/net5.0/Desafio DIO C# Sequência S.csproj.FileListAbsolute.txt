@@ -1,0 +1,16 @@
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência S\bin\Debug\net5.0\Desafio DIO C# Sequência S.exe
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência S\bin\Debug\net5.0\Desafio DIO C# Sequência S.deps.json
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência S\bin\Debug\net5.0\Desafio DIO C# Sequência S.runtimeconfig.json
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência S\bin\Debug\net5.0\Desafio DIO C# Sequência S.runtimeconfig.dev.json
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência S\bin\Debug\net5.0\Desafio DIO C# Sequência S.dll
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência S\bin\Debug\net5.0\ref\Desafio DIO C# Sequência S.dll
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência S\bin\Debug\net5.0\Desafio DIO C# Sequência S.pdb
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência S\obj\Debug\net5.0\Desafio DIO C# Sequência S.csproj.AssemblyReference.cache
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência S\obj\Debug\net5.0\Desafio DIO C# Sequência S.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência S\obj\Debug\net5.0\Desafio DIO C# Sequência S.AssemblyInfoInputs.cache
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência S\obj\Debug\net5.0\Desafio DIO C# Sequência S.AssemblyInfo.cs
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência S\obj\Debug\net5.0\Desafio DIO C# Sequência S.csproj.CoreCompileInputs.cache
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência S\obj\Debug\net5.0\Desafio DIO C# Sequência S.dll
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência S\obj\Debug\net5.0\ref\Desafio DIO C# Sequência S.dll
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência S\obj\Debug\net5.0\Desafio DIO C# Sequência S.pdb
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Sequência S\obj\Debug\net5.0\Desafio DIO C# Sequência S.genruntimeconfig.cache

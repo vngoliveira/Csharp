@@ -1,0 +1,16 @@
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Distância\bin\Debug\net5.0\Desafio DIO C# Distância.exe
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Distância\bin\Debug\net5.0\Desafio DIO C# Distância.deps.json
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Distância\bin\Debug\net5.0\Desafio DIO C# Distância.runtimeconfig.json
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Distância\bin\Debug\net5.0\Desafio DIO C# Distância.runtimeconfig.dev.json
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Distância\bin\Debug\net5.0\Desafio DIO C# Distância.dll
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Distância\bin\Debug\net5.0\ref\Desafio DIO C# Distância.dll
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Distância\bin\Debug\net5.0\Desafio DIO C# Distância.pdb
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Distância\obj\Debug\net5.0\Desafio DIO C# Distância.csproj.AssemblyReference.cache
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Distância\obj\Debug\net5.0\Desafio DIO C# Distância.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Distância\obj\Debug\net5.0\Desafio DIO C# Distância.AssemblyInfoInputs.cache
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Distância\obj\Debug\net5.0\Desafio DIO C# Distância.AssemblyInfo.cs
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Distância\obj\Debug\net5.0\Desafio DIO C# Distância.csproj.CoreCompileInputs.cache
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Distância\obj\Debug\net5.0\Desafio DIO C# Distância.dll
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Distância\obj\Debug\net5.0\ref\Desafio DIO C# Distância.dll
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Distância\obj\Debug\net5.0\Desafio DIO C# Distância.pdb
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Desafio DIO C# Distância\obj\Debug\net5.0\Desafio DIO C# Distância.genruntimeconfig.cache
